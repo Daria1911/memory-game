@@ -1,70 +1,27 @@
-# Getting Started with Create React App
+# Memory Grid Game
+ 
+Highlighting Squares Game is a simple JavaScript game where players need to remember and reproduce a sequence of highlighted squares on a grid. It challenges your memory and observation skills as you try to replicate the pattern correctly. 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Memory Grid Game Screenshot
 
-## Available Scripts
+# How to Play
+1. Open the link https://daria1911.github.io/memory-game/
+2. Choose difficulty with a range input
+3. Press "Game" button to preview the game.
+4. Observe the highlighted squares as they appear in a specific sequence.
+5. After the sequence is complete, click on the squares in the same order to replicate the pattern.
+6. If you make a mistake, the square became red color, if correct - green.
+7. The game ends when players recalls all cells correctly.
 
-In the project directory, you can run:
 
-### `npm start`
+# Features
+Dynamic grid size: The game allows you to customize the grid size, giving you the flexibility to choose from different levels of difficulty.
+Random patterns: Each time you play, the highlighted sequence will be randomly generated, ensuring a unique experience every time.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+# Technologies Used
+The Memory Grid Game is built using the following technologies:
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+HTML5
+CSS3
+JavaScript
+Ract(Hooks)
