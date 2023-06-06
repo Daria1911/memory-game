@@ -5,7 +5,7 @@ import {useState} from "react";
 
 function App() {
 
-    const [value, setValue] = useState(3)
+    const [value, setValue] = useState(5)
     const [start, setStarted] = useState(false)
 
     const handleChange = (e) => {
